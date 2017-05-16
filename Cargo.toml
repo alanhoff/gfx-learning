@@ -1,0 +1,10 @@
+[package]
+authors = ["Alan Hoffmeister <alanhoffmeister@gmail.com>"]
+name = "gfx-tutorial"
+version = "0.1.0"
+
+[dependencies]
+gfx = "0.16.0"
+gfx_device_gl = "0.14.0"
+gfx_window_glutin = "0.16.0"
+glutin = "0.8.0"
